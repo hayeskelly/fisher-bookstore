@@ -1,0 +1,10 @@
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.deps.json
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.runtimeconfig.json
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.runtimeconfig.dev.json
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.dll
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.pdb
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.AssemblyInfoInputs.cache
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.AssemblyInfo.cs
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.dll
+/Users/mac/Documents/SP 18/ACCTMIS 3610/Labs/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.pdb
