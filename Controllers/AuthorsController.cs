@@ -11,7 +11,7 @@ namespace Fisher.Bookstore.Controllers
     {
         public IActionResult Index()
         {
-            return Content("This is the Authors controllers Index method");
+            return View();
         }
 
         public IActionResult Featured()
